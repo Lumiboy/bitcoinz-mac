@@ -111,13 +111,14 @@ Complete!
 
 
 ## Thanks
-Developers of `Bitcoinz`  
+Developers of `Zelcash`  
 Developers of `Zcash`  
 Developers of `ZClassic` for MacOS patches
 
 ## Donations
 If you feel this project is useful to you. Feel free to donate.
 
+	BTCZ address: t1YYHAPk9P1wiEiskPPixUx5qL49TqU3hpD
     ZEL address: t1L6FizKPfikQatYTHydDbPnvgKhXFatiYm
 
 
